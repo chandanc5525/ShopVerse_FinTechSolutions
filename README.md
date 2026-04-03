@@ -41,12 +41,3 @@ Your responsibility is to build a Power BI dashboard that enables leadership to:
 ```
 ---
 
-4. Business Objectives
-
-Your dashboard should help answer:
-
-What are the key revenue drivers?
-Who are the most valuable customers?
-Where are customers dropping off in the funnel?
-Which marketing channels deliver the highest ROI?
-How can we increase repeat purchases?
