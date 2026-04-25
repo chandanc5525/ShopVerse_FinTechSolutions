@@ -238,3 +238,5 @@ By completing this project, the analyst is expected to:
 ---
 
 ```
+
+<img width="1367" height="729" alt="Sprint_Image" src="https://github.com/user-attachments/assets/8fa9b901-e366-49b8-b1e2-3a06a547dfc0" />
