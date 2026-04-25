@@ -107,9 +107,10 @@ server_region: Server location
 ```
 ---
 
-```
-## print Plan – Data Analytics Execution Roadmap
+## **Sprint Plan – Data Analytics Execution Roadmap**
 
+---
+```
 **Assigned By:** Analytics Manager
 **Team:** Data Analytics Team
 **Project:** FinTech Business Intelligence – ShopVerse FinTech Solutions Pvt Ltd
