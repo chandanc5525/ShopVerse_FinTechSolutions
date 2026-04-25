@@ -119,10 +119,10 @@ server_region: Server location
 
 ## Sprint 1: Data Understanding & KPI Definition
 
-**Objective:**
+Objective:
 Gain a comprehensive understanding of the dataset and establish key business metrics aligned with organizational goals.
 
-**Tasks Assigned:**
+Tasks Assigned:
 
 * Perform detailed exploration of dataset structure, relationships, and data types
 * Identify and define critical KPIs, including:
@@ -133,19 +133,14 @@ Gain a comprehensive understanding of the dataset and establish key business met
   * Customer Churn Rate
 * Formulate key business questions to guide analysis and dashboard development
 
-**Expected Deliverables:**
-
-* KPI Definition Document
-* Initial Data Exploration Report with observations and data quality insights
-
 ---
 
 ## Sprint 2: Data Cleaning & Transformation
 
-**Objective:**
+Objective:
 Prepare a clean, structured, and analysis-ready dataset for downstream reporting and visualization.
 
-**Tasks Assigned:**
+Tasks Assigned:
 
 * Identify and handle missing or inconsistent data
 * Standardize and convert data types where required
@@ -155,19 +150,14 @@ Prepare a clean, structured, and analysis-ready dataset for downstream reporting
   * Customer Segmentation
 * Develop a structured data model suitable for Power BI or SQL-based querying
 
-**Expected Deliverables:**
-
-* Cleaned and transformed dataset
-* Data model with defined relationships and calculated fields
-
 ---
 
 ## Sprint 3: Dashboard Development
 
-**Objective:**
+Objective:
 Design and develop interactive dashboards to provide actionable business insights.
 
-**Tasks Assigned:**
+Tasks Assigned:
 
 * Build the following dashboards:
 
@@ -177,19 +167,14 @@ Design and develop interactive dashboards to provide actionable business insight
   * Transaction Performance Dashboard (success/failure analysis)
 * Ensure dashboards are interactive, user-friendly, and business-focused
 
-**Expected Deliverables:**
-
-* Fully functional dashboards in Power BI or Tableau
-* Dashboard documentation (metrics explanation & usage guide)
-
 ---
 
 ## Sprint 4: Root Cause Analysis (RCA)
 
-**Objective:**
+Objective:
 Identify and analyze underlying factors impacting business performance.
 
-**Tasks Assigned:**
+Tasks Assigned:
 
 * Conduct RCA on the following areas:
 
@@ -199,19 +184,14 @@ Identify and analyze underlying factors impacting business performance.
   * Revenue or profitability fluctuations
 * Use data-driven techniques to validate findings
 
-**Expected Deliverables:**
-
-* RCA Report with clear problem statements, analysis, and root causes
-* Supporting visualizations and insights
-
 ---
 
 ## Sprint 5: Business Insights & Strategy
 
-**Objective:**
+Objective:
 Translate analytical findings into actionable business recommendations.
 
-**Tasks Assigned:**
+Tasks Assigned:
 
 * Identify key trends, patterns, and anomalies in the data
 * Provide recommendations to:
@@ -222,19 +202,14 @@ Translate analytical findings into actionable business recommendations.
   * Optimize operational efficiency
 * Highlight potential growth opportunities across regions and segments
 
-**Expected Deliverables:**
-
-* Business Insights Report
-* Strategic Recommendation Document aligned with business goals
-
 ---
 
 ## Sprint 6: Documentation (BRD & FED)
 
-**Objective:**
+Objective:
 Develop professional documentation for business and technical stakeholders.
 
-**Tasks Assigned:**
+Tasks Assigned:
 
 ### BRD (Business Requirement Document)
 
@@ -247,11 +222,6 @@ Develop professional documentation for business and technical stakeholders.
 * Design dashboard layout and structure
 * Define filters, visuals, and interactions
 * Ensure alignment with user experience best practices
-
-**Expected Deliverables:**
-
-* Complete BRD document
-* Dashboard design (FED) documentation
 
 ---
 
