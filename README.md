@@ -225,17 +225,6 @@ Tasks Assigned:
 
 ---
 
-## Expected Learning Outcomes
-
-By completing this project, the analyst is expected to:
-
-* Work with **large-scale, real-world-like FinTech data**
-* Build **end-to-end analytics solutions**
-* Apply **structured problem-solving (RCA, KPI-driven analysis)**
-* Deliver **business-ready dashboards and reports**
-* Develop a **portfolio-ready, industry-standard project**
-
----
 
 ```
 
